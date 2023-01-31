@@ -2,7 +2,7 @@
   "name": "movie",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://duonglee1508.github.io/Movie-Duong/",
+  "homepage":"https://duonglee1508.github.io/demo-movie",
   
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
