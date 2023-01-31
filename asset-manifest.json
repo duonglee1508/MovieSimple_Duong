@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie-Duong/static/css/main.865ede04.css",
+    "main.js": "/Movie-Duong/static/js/main.17a3b7f2.js",
+    "static/js/787.e253fc0a.chunk.js": "/Movie-Duong/static/js/787.e253fc0a.chunk.js",
+    "index.html": "/Movie-Duong/index.html",
+    "main.865ede04.css.map": "/Movie-Duong/static/css/main.865ede04.css.map",
+    "main.17a3b7f2.js.map": "/Movie-Duong/static/js/main.17a3b7f2.js.map",
+    "787.e253fc0a.chunk.js.map": "/Movie-Duong/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.865ede04.css",
+    "static/js/main.17a3b7f2.js"
+  ]
+}
