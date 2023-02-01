@@ -5,10 +5,13 @@ import Banner from "./components/banner/Banner";
 
 import Main from "./components/layout/Main";
 
+// import MovieDetailPage from "./pages/MovieDetailPage";
+// import MoviePage from "./pages/MoviePage";
+
 const HomePage = lazy(() => import("./pages/HomePage"));
 const MovieDetailPage = lazy(() => import("./pages/MovieDetailPage"));
 const MoviePage = lazy(() => import("./pages/MoviePage"));
-
+// const MoviePageV2 = lazy(() => import("./pages/MoviePageV2"));
 function App() {
   return (
     <Fragment>
